@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d941a8da-9e1f-4286-9926-6466f39f2f52" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/IMG_0322.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/IMG_07001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/W1502230-133.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/down_map.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/g5.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/heritzmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/intro-bg-R1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/intro-bg-R2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mapFull.JPG" afterPath="" />
     </list>
     <ignored path="ericyang89.iws" />
     <ignored path=".idea/workspace.xml" />
